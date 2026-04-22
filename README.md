@@ -1,16 +1,22 @@
-## Hi there 👋
+# Shahad Sulais
 
-<!--
-**ShahadSulais/ShahadSulais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at KFUPM
 
-Here are some ideas to get you started:
+## Summary
+Final-year Computer Science student with experience in software development and UI/UX design. Skilled in building scalable applications, translating requirements into technical solutions, and developing user-centered systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- UI/UX Design  
+- Software Engineering  
+- Usability Engineering  
+
+## Technical Skills
+- JavaScript, Python, Java  
+- Node.js, Express.js  
+- HTML, CSS  
+- MySQL, MongoDB  
+
+## Tools
+- Figma  
+- Visual Studio  
+- Jupyter  
