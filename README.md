@@ -1,22 +1,32 @@
 # Shahad Sulais
 
-Computer Science student at KFUPM
+Computer Science Graduate from KFUPM
 
 ## Summary
-Final-year Computer Science student with experience in software development and UI/UX design. Skilled in building scalable applications, translating requirements into technical solutions, and developing user-centered systems.
+
+Computer Science graduate from KFUPM with experience in software engineering, web development, UI/UX design, and usability engineering. Experienced in building practical, user-centered digital solutions and translating requirements into functional applications. Interested in artificial intelligence, machine learning, and emerging technologies.
 
 ## Interests
-- UI/UX Design  
-- Software Engineering  
-- Usability Engineering  
+
+- Software Engineering
+- UI/UX Design
+- Web Development
+- Usability Engineering
+- Artificial Intelligence
+- Machine Learning
 
 ## Technical Skills
-- JavaScript, Python, Java  
-- Node.js, Express.js  
-- HTML, CSS  
-- MySQL, MongoDB  
 
-## Tools
-- Figma  
-- Visual Studio  
-- Jupyter  
+- JavaScript, Python, Java, C
+- HTML, CSS
+- Node.js, Express.js
+- MySQL, MongoDB
+- Machine Learning
+
+## Tools & Technologies
+
+- Figma
+- Git & GitHub
+- Visual Studio
+- Jupyter Notebook
+- Sitefinity
